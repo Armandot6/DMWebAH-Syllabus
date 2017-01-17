@@ -259,6 +259,8 @@
 #### <a name="day32"></a> Day 2 - JS Fundamentals III
 - Pre-Reading:
   - [JS is Sexy - Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+- Lesson Video:
+  [Javascript Closures/Prototypes](https://vimeo.com/183729293)
 - Learning Objectives
   - Students will be able to define what a closure is
   - Students will be able to identify when a closure is being used
