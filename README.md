@@ -241,23 +241,6 @@
 
 #### <a name="day31"></a> Day 1 - JavaScript Fundamentals II
 - Pre-Reading:
-  - [JS is Sexy - Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
-- Learning Objectives
-  - Students will be able to define what a closure is
-  - Students will be able to identify when a closure is being used
-- Practice
-  - https://codecard.io/a/sequence/dE5_lLSsX
-  - https://codecard.io/a/sequence/N4pvJbW0y
-- Projects:
-  - [JavaScript Closures](https://github.com/DevMountain/JS-Closures)
-- Assessments
-  - [JS Fundamentals I](https://codecard.io/a/cardio-preview/74hCukylV)
-    - All questions
-- Black Diamond (Bonus push yourself material)
-  - [Advanced JS Problems](https://codecard.io/a/cardio-preview/N4cJ_s7lR)
-
-#### <a name="day32"></a> Day 2 - JS Fundamentals III
-- Pre-Reading:
   - [Eloquent JavaScript - Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 - Lesson Video:
   - Javascript Fundamentals II & III w/ Jeremy Robertson] (https://www.youtube.com/playlist?list=PLFq09yYVYpcIHr6k0SxZfoU7cQttkkw52) - 1 hr 53 minutes
@@ -272,6 +255,23 @@
 - Project:
   - [Array Fiddles](https://github.com/DevMountain/JS-Arrays)
 - Additional Reading:
+
+#### <a name="day32"></a> Day 2 - JS Fundamentals III
+- Pre-Reading:
+  - [JS is Sexy - Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+- Learning Objectives
+  - Students will be able to define what a closure is
+  - Students will be able to identify when a closure is being used
+- Practice
+  - https://codecard.io/a/sequence/dE5_lLSsX
+  - https://codecard.io/a/sequence/N4pvJbW0y
+- Projects:
+  - [JavaScript Closures](https://github.com/DevMountain/JS-Closures)
+- Assessments
+  - [JS Fundamentals I](https://codecard.io/a/cardio-preview/74hCukylV)
+    - All questions
+- Black Diamond (Bonus push yourself material)
+  - [Advanced JS Problems](https://codecard.io/a/cardio-preview/N4cJ_s7lR)
 
 #### <a name="day33"></a> Day 3 - JS Fundamentals IV
 - Pre-Reading:
