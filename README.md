@@ -749,20 +749,21 @@
   - [The React Way](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
   - [Bonus: Survive JS](http://survivejs.com/react/getting-started/introduction-to-react/)
 - Lesson Video:
-  - [Component Based Architecture](https://vimeo.com/203514273)
-  - [Object Destructuring](https://vimeo.com/203515508)
-  - [Import / Export](https://vimeo.com/203514511)
-  - [ES6 Arrow Function](https://vimeo.com/203514642)
-  - [Creating A React Component](https://vimeo.com/203514900)
-  - [Updating React State with Event Listeners](https://vimeo.com/203515141)
+  - ES6 Features: **Watch these first!**
+    - [Object Destructuring](https://vimeo.com/203515508)
+    - [Import / Export](https://vimeo.com/203514511)
+    - [ES6 Arrow Function](https://vimeo.com/203514642)
   - [JSX](https://vimeo.com/203514986)
   - [JSX](https://vimeo.com/203515312)
+  - [Component Based Architecture](https://vimeo.com/203514273)
+  - [Creating A React Component](https://vimeo.com/203514900)
+  - [Updating React State with Event Listeners](https://vimeo.com/203515141)
   - [Unidirectional Data Flow](https://vimeo.com/203514192)
   - [The Virtual Dom](https://vimeo.com/203514022)
-  - [Changing the Parent Component State](https://vimeo.com/203513881)
   - [Initial Component State](https://vimeo.com/202799186)
   - [Passing Props in React](https://vimeo.com/202799186)
   - [CSS in React](https://vimeo.com/202799186)
+  - [Changing the Parent Component State](https://vimeo.com/203513881)
 - Learning Objectives
   - Understand how React compares to other Front End frameworks like Angular
   - Understand how to use Create-React-App to set up your React App
@@ -785,20 +786,21 @@ CSS in React
   - [The React Way](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
   - [Bonus: Survive JS](http://survivejs.com/react/getting-started/introduction-to-react/)
 - Lesson Video:
-  - [Component Based Architecture](https://vimeo.com/203514273)
-  - [Object Destructuring](https://vimeo.com/203515508)
-  - [Import / Export](https://vimeo.com/203514511)
-  - [ES6 Arrow Function](https://vimeo.com/203514642)
-  - [Creating A React Component](https://vimeo.com/203514900)
-  - [Updating React State with Event Listeners](https://vimeo.com/203515141)
+  - ES6 Features: **Watch these first!**
+    - [Object Destructuring](https://vimeo.com/203515508)
+    - [Import / Export](https://vimeo.com/203514511)
+    - [ES6 Arrow Function](https://vimeo.com/203514642)
   - [JSX](https://vimeo.com/203514986)
   - [JSX](https://vimeo.com/203515312)
+  - [Component Based Architecture](https://vimeo.com/203514273)
+  - [Creating A React Component](https://vimeo.com/203514900)
+  - [Updating React State with Event Listeners](https://vimeo.com/203515141)
   - [Unidirectional Data Flow](https://vimeo.com/203514192)
   - [The Virtual Dom](https://vimeo.com/203514022)
-  - [Changing the Parent Component State](https://vimeo.com/203513881)
   - [Initial Component State](https://vimeo.com/202799186)
   - [Passing Props in React](https://vimeo.com/202799186)
   - [CSS in React](https://vimeo.com/202799186)
+  - [Changing the Parent Component State](https://vimeo.com/203513881)
 - Learning Objectives
   - Understand how React compares to other Front End frameworks like Angular
   - Understand how to use Webpack to set up a build process for your React App
