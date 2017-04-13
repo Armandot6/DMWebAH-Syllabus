@@ -798,8 +798,8 @@ CSS in React
   - [Unidirectional Data Flow](https://vimeo.com/203514192)
   - [The Virtual Dom](https://vimeo.com/203514022)
   - [Initial Component State](https://vimeo.com/202799186)
-  - [Passing Props in React](https://vimeo.com/202799186)
-  - [CSS in React](https://vimeo.com/202799186)
+  - [Passing Props in React](https://vimeo.com/203513011)
+  - [CSS in React](https://vimeo.com/203513258)
   - [Changing the Parent Component State](https://vimeo.com/203513881)
 - Learning Objectives
   - Understand how React compares to other Front End frameworks like Angular
