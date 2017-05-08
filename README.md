@@ -207,7 +207,7 @@
 - Pre-Reading:
   - [Eloquent JavaScript - Functions](http://eloquentjavascript.net/03_functions.html)
 - Lesson Video:
-  - [Javasript I - 1. How the Web Works](https://vimeo.com/album/4569062)
+  - [Javascript I - 1. How the Web Works](https://vimeo.com/album/4569062)
   - [Javascript I - 2. Functions](https://vimeo.com/album/4569064)
   - [Javascript I - 3. Scope](https://vimeo.com/album/4569071)
 - Learning Objectives
