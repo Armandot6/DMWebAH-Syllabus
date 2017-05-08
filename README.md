@@ -207,8 +207,9 @@
 - Pre-Reading:
   - [Eloquent JavaScript - Functions](http://eloquentjavascript.net/03_functions.html)
 - Lesson Video:
-  - [Intro to Javascript Fundamentals w/ Jeremy Robertson] (https://www.youtube.com/playlist?list=PLFq09yYVYpcLeYBOJfjmffzRNxyc0JGrR) 1 hours 53 minutes
-  - [Archive Video - Javascript Fundamentals w/ Jacob Turner (OPTIONAL)](https://vimeo.com/147892710) 2 Hours 4 Minutes
+  - [Javasript I - 1. How the Web Works](https://vimeo.com/album/4569062)
+  - [Javascript I - 2. Functions](https://vimeo.com/album/4569064)
+  - [Javascript I - 3. Scope](https://vimeo.com/album/4569071)
 - Learning Objectives
   - Students will understand how the web works:
     - front-end vs back-end
@@ -243,8 +244,7 @@
 - Pre-Reading:
   - [Eloquent JavaScript - Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 - Lesson Video:
-  - Javascript Fundamentals II & III w/ Jeremy Robertson] (https://www.youtube.com/playlist?list=PLFq09yYVYpcIHr6k0SxZfoU7cQttkkw52) - 1 hr 53 minutes
-  - [Javascript Fundamentals II & III w/ Jeremy Robertson (Unedited)](https://vimeo.com/148132097) - This video covers content for two classes. 2 hours 22 minutes.
+  - [Javascript II - 1. Arrays](https://vimeo.com/album/4569076)
 - Learning Objectives
   - Students will understand Arrays:
     - purpose
@@ -258,28 +258,9 @@
 
 #### <a name="day32"></a> Day 2 - JS Fundamentals III
 - Pre-Reading:
-  - [JS is Sexy - Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
-- Lesson Video:
-  [Javascript Closures/Prototypes](https://vimeo.com/183729293)
-- Learning Objectives
-  - Students will be able to define what a closure is
-  - Students will be able to identify when a closure is being used
-- Practice
-  - https://codecard.io/a/sequence/dE5_lLSsX
-  - https://codecard.io/a/sequence/N4pvJbW0y
-- Projects:
-  - [JavaScript Closures](https://github.com/DevMountain/JS-Closures)
-- Assessments
-  - [JS Fundamentals I](https://codecard.io/a/cardio-preview/74hCukylV)
-    - All questions
-- Black Diamond (Bonus push yourself material)
-  - [Advanced JS Problems](https://codecard.io/a/cardio-preview/N4cJ_s7lR)
-
-#### <a name="day33"></a> Day 3 - JS Fundamentals IV
-- Pre-Reading:
   - [JS is Sexy - Objects](http://javascriptissexy.com/javascript-objects-in-detail/)
 - Lesson Video:
-  - [Javascript Fundamentals II & III](https://vimeo.com/148132097) - Same video as yesterday. 2 hours 22 minutes.
+  [Javascript III - 1. Objects](https://vimeo.com/album/4569079)
 - Learning Objectives
   - Students will understand how Objects differ from Arrays
   - Students will understand use cases for objects
@@ -294,12 +275,33 @@
   - [High Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
 
+#### <a name="day33"></a> Day 3 - JS Fundamentals IV
+- Pre-Reading:
+  - [JS is Sexy - Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+- Lesson Video:
+  [Javascript IV - Closures](https://vimeo.com/album/4569094)
+- Learning Objectives
+  - Students will be able to define what a closure is
+  - Students will be able to identify when a closure is being used
+- Practice
+  - https://codecard.io/a/sequence/dE5_lLSsX
+  - https://codecard.io/a/sequence/N4pvJbW0y
+- Projects:
+  - [JavaScript Closures](https://github.com/DevMountain/JS-Closures)
+- Assessments
+  - [JS Fundamentals I](https://codecard.io/a/cardio-preview/74hCukylV)
+    - All questions
+- Black Diamond (Bonus push yourself material)
+  - [Advanced JS Problems](https://codecard.io/a/cardio-preview/N4cJ_s7lR)
+
+
 ## <a name="week4"></a> Week 4
 #### <a name="day41"></a> Day 1 - Advanced JavaScript I
 - Pre-Reading:
   - [JS is Sexy - Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 - Lesson Video:
-  - [JS Callbacks & Prototypes](https://vimeo.com/148390556) 1 Hour 11 Minutes
+  - [Javascript V - 1. Synchronous vs. Asynchronous](https://vimeo.com/album/4569102)
+  - [Javascript V - 2. Callbacks](https://vimeo.com/album/4569115)
 - Learning Objectives
   - Students will understand synchronous vs asynchronous programming
   - Students will be able to talk about what a callback is
@@ -317,7 +319,8 @@
 - Pre-Reading:
   - [This with Clarity](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 - Lesson Video:
-  - [JS - The "this" keyword](https://vimeo.com/148264150) 1 Hour 49 Minutes
+  - [Javascript VI - Context](https://vimeo.com/album/4569118)
+  - [Javascript VI - 2. Constructor Functions](https://vimeo.com/album/4569122)
 - Learning Objectives
   - the purpose of the ‘this’ keyword
     - 4 rules for determining what ‘this’ is bound to
